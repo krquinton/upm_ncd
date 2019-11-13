@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://datavizforall.github.io/upm_ncd
+- Leaflet Map https://krquinton.github.io/upm_ncd
 - Google Sheets template https://docs.google.com/spreadsheets/d/1qh4amce2Lo5si6Z8Fi3zBLF3yJQD28dwivuAoN42eyk/edit#gid=0
 
 ## Create your own
